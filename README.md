@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/Python-3.8-blue"> <img src="https://img.shields.io/badge/Status-Beta-orange"> <img src="https://img.shields.io/badge/Version-4-red"> <img src="https://img.shields.io/badge/Licence-MIT-yellowgreen">
+<img src="https://img.shields.io/badge/Python-3.8-blue"> <img src="https://img.shields.io/badge/Status-Beta-orange"> <img src="https://img.shields.io/badge/Version-1-red"> <img src="https://img.shields.io/badge/Licence-MIT-yellowgreen">
 
 ![cdf](https://user-images.githubusercontent.com/44644302/233476623-fcfa285e-ff6b-4a78-8386-8887a5245ac8.jpg)
 
