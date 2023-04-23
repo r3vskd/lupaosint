@@ -1,0 +1,6 @@
+-Retrieve ip of the website
+-Country of the ip
+-ping the ip of the website or ip
+-org name and webservices
+-http header check
+-clear when finish each selection and option
