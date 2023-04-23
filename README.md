@@ -18,8 +18,9 @@ LupaOsint is a tiny but efficient tool written in python that focuses in DNS que
  - boto3
 ```
 
-## Installation
+## Installation & Usage
 ```bash
   chmod +x scraper_emails.sh && chmod +x scraper_phone_numbers.sh
+  python3 lupa.py
 ```
 
