@@ -1,1 +1,11 @@
-pip install ip2geotools pip install geopy y agregar pantalla de carga con ascii
+#pip install ip2geotools 
+#pip install geopy 
+#pip install urllib2
+#pip install requests
+#pip install argparse
+#pip install asyncio
+#pip install html
+#pip install schedule
+#pip isntall boto3
+#chmod +x scraper_emails.sh && chmod +x scraper_phone_numbers.sh
+ 
