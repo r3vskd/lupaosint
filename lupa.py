@@ -26,8 +26,6 @@ print('\x1b[33;92m'"⠀⠀⠀⢀⣼⡿⠋⠙⠷⣤⣀⡀⣾⣿⣿⣿⣿⣿⣿⣿
 print('\x1b[33;92m'"⠀⠀⠀⠘⠋⠀⠀⠀⠀⠀⠀⢹⣿⣿⣿⣿⣿⣿⣿⠿⠛⠉⠀⠀⠀⠀⠀⠀⠀⠀  "'\x1b[0m')
 print('\x1b[33;92m'"⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠉⠉⠉⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀  "'\x1b[0m')
 
-
-
 options={
         1:'Retrieve the IP address from any website',
         2:'Retrieve the country/city/province from the IP address',
