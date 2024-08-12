@@ -109,7 +109,7 @@ def option7():
     open=subprocess.Popen(bash, shell=True)
     open.wait()
 
-##################### initialization ###########################
+##################### inicio ###########################
 if __name__=='__main__':
     while(True):
         print("\t")
